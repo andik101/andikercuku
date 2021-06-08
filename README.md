@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andikercuku&label=Profile%20views&color=0e75b6&style=flat" alt="andikercuku" /> </p>
 
+#Improved by automation be contained in systems and look visualized in reports.
 
 
 <h3 align="left">Languages and Tools:</h3>
